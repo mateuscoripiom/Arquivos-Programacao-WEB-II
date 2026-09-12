@@ -1,5 +1,7 @@
 # Arquivos-Programacao-WEB-II
 
-Arquivos base para a criação do site, utilizados no curso Programação WEB II do Professor André Maurício.
+🇧🇷 Arquivos-base fornecidos pelo professor para a criação do site utilizado no curso de Programação Web II (Prof. André Maurício) — fork do material original do curso, não é código autoral.
 
-Link para a playlist de aulas [aqui](https://www.youtube.com/playlist?list=PL21XB6MnrdgA6loXEywpXoW-_Dw_zUasu "link para playlist").
+🇬🇧 Base files provided by the instructor for the site used in the Web Programming II course (Prof. André Maurício) — a fork of the original course material, not original coursework.
+
+**Stack:** JavaScript
